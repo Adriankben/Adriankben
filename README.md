@@ -2,7 +2,7 @@
 
 
 - 🎓 University of Technology, Jamaica
-- 🏛 Owner of BTX Platforms LLC.
+- 🏛 Owner of (Pending).
 - 💻 Developer
 - ⚡ Expert at all things Java
 - 🌱 Learning **Data Science**
