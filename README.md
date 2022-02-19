@@ -18,5 +18,5 @@
 <a href="https://github.com/Adriankben">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
   
-<a href="https://www.linkedin.com/adriankbennett3/">
+<a href="https://www.linkedin.com/in/adriankbennett3/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
