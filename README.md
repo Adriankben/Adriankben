@@ -11,13 +11,12 @@
 - 📱 +1(413)278 9179
 
 🔵 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)]()
 
-<a href="https://usama.dev">
+<a href="https://Adriankben.github.io">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
-<a href="https://github.com/usamasarwar/">
-<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 
+<a href="https://github.com/Adriankben">
+<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
   
 <a href="https://www.linkedin.com/adriankbennett3/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
