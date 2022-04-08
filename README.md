@@ -3,11 +3,11 @@
 - 🎓 University of Technology, Jamaica
 - 🏛 Owner of (Pending).
 - 💻 Developer
-- ⚡ Expert at all things Java
+- ⚡ Adept at all things Java
 - 🌱 Learning **Data Science**
 - 🔭 Current Project: **React** 
 - 📫 Kingston, Jamaica
-- 📱 +1(413)278 9179
+- 📱 +1(876)545 4668
 
 🔵 **Connect with me:**
 
