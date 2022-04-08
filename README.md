@@ -5,7 +5,7 @@
 - 💻 Developer
 - ⚡ Adept at all things Java
 - 🌱 Learning **Data Science**
-- 🔭 Current Project: **React** 
+- 🔭 Current Project: **Webscraping** 
 - 📫 Kingston, Jamaica
 - 📱 +1(876)545 4668
 
