@@ -3,9 +3,6 @@
 
 🔵 **Connect with me:**
 
-<a href="https://Adriankben.github.io">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
-
 <a href="https://github.com/Adriankben">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
   
