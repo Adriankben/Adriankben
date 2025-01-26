@@ -1,13 +1,5 @@
 ### Hi, there 👋
 
-- 🎓 University of Technology, Jamaica
-- 🏛 Owner of (Pending).
-- 💻 Developer
-- ⚡ Adept at all things Java
-- 🌱 Learning **Data Science**
-- 🔭 Current Project: **Webscraping** 
-- 📫 Kingston, Jamaica
-- 📱 +1(876)545 4668
 
 🔵 **Connect with me:**
 
