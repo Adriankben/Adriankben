@@ -34,4 +34,7 @@ Here are some of the industry-recognized certifications I’ve earned:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriankben&theme=dark&layout=compact&langs_count=20&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriankben&theme=dark&layout=compact&langs_count=20&hide_title=true&v=1" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Adriankben&theme=dark&hide_border=true" alt="GitHub Streak" />
+
 </div>
