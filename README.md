@@ -4,6 +4,8 @@ I'm Adrian Bennett — a passionate IT professional and cybersecurity enthusiast
 
 ---
 
+Check out my projects below — if you find them helpful, please consider leaving a ⭐ on the repo!
+
 ---
 
 ## 🛠 Tools & Technologies
