@@ -4,15 +4,6 @@ I'm Adrian Bennett — a passionate IT professional and cybersecurity enthusiast
 
 ---
 
-## 🔗 Connect with Me
-
-<a href="https://github.com/Adriankben">
-  <img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff" alt="GitHub Badge">
-</a>
-<a href="https://www.linkedin.com/in/adriankbennett3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff" alt="LinkedIn Badge">
-</a>
-
 ---
 
 ## 🛠 Tools & Technologies
