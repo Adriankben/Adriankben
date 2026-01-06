@@ -4,12 +4,8 @@ I'm Adrian Bennett — a passionate IT professional and cybersecurity enthusiast
 
 ---
 
-Check out my projects below — if you find them helpful, please consider leaving a ⭐ on the repo!
+Check out my projects below — if you find them helpful, please consider leaving a ⭐ on the repo or buying me a cup of coffee below!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I01RRG34)
 
 ---
-
-## 🛠 Tools & Technologies
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriankben&theme=dark&layout=compact&langs_count=20&hide_title=true&v=1" alt="Top Languages" />
-</div>
